@@ -80322,7 +80322,7 @@ return A.S($async$$0,r)},
 $S:20}
 A.Ju.prototype={
 J(a){var s=null
-return new A.xW(B.Ll,"Portfolio",A.tu(s,A.arG(B.a3,s,s,B.Jl),B.ih,B.Te,s),!1,s)}}
+return new A.xW(B.Ll,"Muneer Ul Hassan Portfolio",A.tu(s,A.arG(B.a3,s,s,B.Jl),B.ih,B.Te,s),!1,s)}}
 A.yE.prototype={
 al(){return new A.Rw(A.b(["Home","About","Projects","Skills","Contact"],t.s))}}
 A.Rw.prototype={
